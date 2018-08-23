@@ -1,0 +1,8 @@
+*.pyc
+*~
+__pycache__
+blogenv
+/static
+.DS_Stors
+.idea
+db.sqlite3
